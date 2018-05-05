@@ -1,0 +1,56 @@
+{
+  "assetsByChunkName": {
+    "path---gatolocho": [
+      "path---gatolocho-a0e39f21c11f6a62c5ab.js",
+      "path---gatolocho-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-697ae682692e18f7afe6.js",
+      "component---src-pages-index-js-697ae682692e18f7afe6.js.map"
+    ],
+    "path---mygram": [
+      "path---mygram-a0e39f21c11f6a62c5ab.js",
+      "path---mygram-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-pages-gatolocho-index-js": [
+      "component---src-pages-gatolocho-index-js-2fe0e3b13e90ed017e37.js",
+      "component---src-pages-gatolocho-index-js-2fe0e3b13e90ed017e37.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-6a508a0b3871648776ff.js",
+      "commons-6a508a0b3871648776ff.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-12c8a841251a887ad7c2.js",
+      "app-12c8a841251a887ad7c2.js.map"
+    ],
+    "component---src-pages-mygram-index-js": [
+      "component---src-pages-mygram-index-js-f36430df92eb8ab2c4c6.js",
+      "component---src-pages-mygram-index-js-f36430df92eb8ab2c4c6.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

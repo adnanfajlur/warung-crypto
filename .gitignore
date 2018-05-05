@@ -1,0 +1,10 @@
+# Project dependencies
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+.firebaserc
+firebase.json
+# Build directory
+.cache
+.public
+.DS_Store
+yarn-error.log
